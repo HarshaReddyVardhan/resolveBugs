@@ -193,7 +193,6 @@ _You need to fix some of the previous bugs in order to reproduce_
 
 ## Submission
 
-**IMPORTANT:** Before sharing your CodeSandbox, open the `email.txt` file and replace your email on the only line of the file. Don't use any prefix or suffix, just your email.
 
 You will submit a link to a CodeSandbox with your responses. Make sure your CodeSandbox has the shape of this Regex: `/^https:\/\/codesandbox\.io\/p\/sandbox\/[a-z\d]{6}$/`. _See [Coding](#coding)_
 
